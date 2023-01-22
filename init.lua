@@ -4,7 +4,7 @@ local mq = require('mq')
 --- @type ImGui
 require('ImGui')
 
--- Import our zones file
+-- Import zone file
 local zones = require('zones')
 
 -- Import special Ladon zone file
