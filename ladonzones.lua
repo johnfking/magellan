@@ -111,7 +111,7 @@ return
 	[19] = 
 	{
 		[1] = 21,
-		[2] = "Weast Commonlands",
+		[2] = "West Commonlands",
 		[3] = "commons",
 	},
 	[20] = 
@@ -3374,11 +3374,59 @@ return
 	},
 	[563] = 
 	{
+		[1] = 851,
+		[2] = "Ruins of Shadowhaven",
+		[3] = "shadowhaventwo",
+	},
+	[564] = 
+	{
+		[1] = 852,
+		[2] = "Shar Vahl, Divided",
+		[3] = "sharvahltwo",
+	},
+	[565] = 
+	{
+		[1] = 853,
+		[2] = "Paludal Depths",
+		[3] = "paludaltwo",
+	},
+	[566] = 
+	{
+		[1] = 854,
+		[2] = "Shadeweaver's Tangl",
+		[3] = "shadeweavertwo",
+	},
+	[567] = 
+	{
+		[1] = 855,
+		[2] = "Darklight Caverns",
+		[3] = "darklightcaverns",
+	},
+	[568] = 
+	{
+		[1] = 856,
+		[2] = "Deepshade",
+		[3] = "deepshade",
+	},
+	[569] = 
+	{
+		[1] = 857,
+		[2] = "Firefall Pass",
+		[3] = "firefallpass",
+	},
+	[570] = 
+	{
+		[1] = 858,
+		[2] = "Hollowshade Moor",
+		[3] = "hollowshadetwo",
+	},
+	[571] = 
+	{
 		[1] = 996,
 		[2] = "The Pit of Rathpher",
 		[3] = "arttest",
 	},
-	[564] = 
+	[572] = 
 	{
 		[1] = 998,
 		[2] = "The Forgotten Halls",

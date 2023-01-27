@@ -521,10 +521,7 @@ local zones_heirarchy = {
       resplendent = 'Resplendent Temple',
       pillarsalra = 'Pillars of Alra',
       windsong = 'Windsong',
-      guildhalllrg = {
-         'Palatial Guildhall',
-         'Grand Guild Hall'
-      },
+      guildhalllrg = 'Palatial Guild Hall',
       sepulcher = 'Sepulcher of Order',
       westsepulcher = 'West Sepulcher',
       shadowedmount = 'Shadowed Mount',
@@ -644,6 +641,15 @@ local zones_heirarchy = {
       basilica = 'Basilica of Adumbration',
       bloodfalls = 'Bloodfalls',
       maidenhouseint = 'Coterie Chambers'
-   }
+   },
+   ['Night of Shadows'] = {
+      firefallpass = 'Firefall Pass',
+      shadeweavertwo = 'Shadeweaver\'s Tangle',
+      sharvahltwo = 'Shar Vahl, Divided',
+      paludaltwo = 'Paludal Depths',
+      shadowhaventwo = 'Ruins of Shadow',
+      deepshade = 'The Deepshade',
+      darklightcaverns = 'Darklight Caverns'
+   },
 }
 return zones_heirarchy
