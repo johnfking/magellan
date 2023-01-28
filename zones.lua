@@ -652,4 +652,5 @@ local zones_heirarchy = {
       darklightcaverns = 'Darklight Caverns'
    },
 }
+-- Added NoS Entries again
 return zones_heirarchy
