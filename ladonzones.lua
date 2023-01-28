@@ -1,3 +1,4 @@
+-- Adds NoS zones again
 return
 {
 	[1] = 
