@@ -250,6 +250,8 @@ local function draw_main_window()
             ImGui.SetWindowSize(ImGui.GetWindowWidth(), window_height or collapsed_window_height)
 
             search_term = ImGui.InputText('Filter', search_term)
+            ImGui.SameLine()
+            if ImGui.Button('Clear') then search_term = '' end
             ImGui.Separator()
 
             local prev_zone = ''
