@@ -5,13 +5,13 @@ local mq = require('mq')
 require('ImGui')
 
 -- Import our zones file
-local zones = require('lib.zones')
+local zones = require('zones')
 
 -- Import special Ladon zone file
-local ladon_zones = require('lib.ladonzones')
+local ladon_zones = require('ladonzones')
 
 -- Libaray used to read/write ini files
-local lip = require('lib.LIP')
+local lip = require('LIP')
 
 -- Define some icons
 local icons = {
