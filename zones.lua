@@ -652,12 +652,12 @@ local zones_heirarchy = {
       darklightcaverns = 'Darklight Caverns'
    },
     ['Laurions Song'] = {
-      laurioninn = 'Laurion Inn'
-      timorousfalls = 'Timorous Falls'
-      ankexfen = 'Ankexfen Keep'
-      moorsofnokk = 'Moors of Nokk'
-      Unkemptwoods = 'Unkempt Woods'
-      herosforge = 'The Heros Forge'
+      laurioninn = 'Laurion Inn',
+      timorousfalls = 'Timorous Falls',
+      ankexfen = 'Ankexfen Keep',
+      moorsofnokk = 'Moors of Nokk',
+      Unkemptwoods = 'Unkempt Woods',
+      herosforge = 'The Heros Forge',
       pallomen = 'Pal Lomen'
    }
 }
